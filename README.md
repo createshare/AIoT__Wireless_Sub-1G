@@ -1,7 +1,10 @@
 # AIoT__Wirless-Module
-AIoT Wirless Module/Platform.  
+AIoT Wireless Module/Platform for Sub-1G Hz.  
 
-AIoT 无线模块/平台的搭建。
+AIoT Sub-1G 无线模块/平台的搭建。
+
+- CC1120
+- 
 
 
 
